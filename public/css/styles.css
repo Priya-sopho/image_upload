@@ -1,0 +1,38 @@
+@charset "utf-8";
+.container {
+	margin: 20px;
+	padding-top: 5px;
+	background-image: -webkit-linear-gradient(30deg,rgba(255,255,255,1.00) 0%,rgba(199,248,255,1.00) 21.76%,rgba(174,246,255,1.00) 31.61%,rgba(155,244,255,1.00) 38.86%,rgba(0,227,255,1.00) 100%);
+	width: auto;
+	max-width: 800px;
+	position: absolute;
+	left: 25%;
+}
+.container #form1 {
+	display: inline-block;
+	margin: 20px;
+	position: relative;
+	left: 20%;
+	
+}
+
+.center {
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #240D82;
+}
+
+table tr td {
+	left: 20%;
+	margin: 20px;
+	
+}
+body div h1 {
+	text-align: center;
+}
+
+
+body div p {
+	color: #220C8E;
+	text-align: center;
+}
